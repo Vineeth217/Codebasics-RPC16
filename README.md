@@ -60,4 +60,4 @@ During **high-pollution events like Diwali**, air purifier **search interest spi
 
 ---
 
-> 🧪 Powered by **Power BI** | 📁 Source: Dataful
+> 🧪 Powered by **Codebasics** | 📁 Source: Dataful
